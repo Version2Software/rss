@@ -1,0 +1,10 @@
+<plugin>
+	<name>RSS Sparkplug</name>
+    <version>1.0.0</version>
+    <author>Version 2 Software, LLC</author>
+    <homePage>http://www.version2software.com</homePage>
+    <email>sales@version2software.com</email>
+    <description>Adds an simple RSS reader to Spark.</description>
+    <class>com.version2software.spark.plugin.RSSSparkplug</class>
+    <minSparkVersion>2.0.0.0</minSparkVersion>
+</plugin>
